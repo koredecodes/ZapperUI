@@ -22,16 +22,14 @@
 
 <img src="https://i.imgur.com/c9R627h.png" alt="img" align="right" width="120px" height="225px">  
 
+### Features
 
-```mint
-⠀⠀       ❗FEATURES❗
- -----------------------------------
- ╭─ 🚀 » fast and optimized
- ├─ ⚡ » beautiful ui
- ├─ 🦎 » upload your own themes
- ├─ ✏️ » easy to configure
- ╰─ 🍻 » full responsive
-```
+- 🚀  fast and optimized
+- ⚡  beautiful ui
+- 🦎  upload your own themes
+- ✏️  easy to configure
+- 🍻  full responsive
+
 
 
 ### Links
