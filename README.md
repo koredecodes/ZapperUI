@@ -24,10 +24,10 @@
 
 
 ```mint
-⠀⠀       🌴 Features 🌴
+⠀⠀       ❗FEATURES❗
  -----------------------------------
  ╭─ 🚀 » fast and optimized
- ├─ ⚡ » beautiful UI
+ ├─ ⚡ » beautiful ui
  ├─ 🦎 » upload your own themes
  ├─ ✏️ » easy to configure
  ╰─ 🍻 » full responsive
